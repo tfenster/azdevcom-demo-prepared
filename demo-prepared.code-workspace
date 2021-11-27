@@ -9,7 +9,7 @@
 			"name": "Client"
 		},
 		{
-			"path": "/host-home-folder/Desktop/dev-containers/demo-prepared",
+			"path": ".devcontainer",
 			"name": "devcontainer Setup"
 		}
 	],
