@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "api",
+			"name": "API"
+		},
+		{
+			"path": "client",
+			"name": "Client"
+		},
+		{
+			"path": "/host-home-folder/Desktop/dev-containers/demo-prepared",
+			"name": "devcontainer Setup"
+		}
+	],
+	"settings": {}
+}
